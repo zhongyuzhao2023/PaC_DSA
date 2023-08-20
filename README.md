@@ -1,0 +1,2 @@
+Parametric Coding DSA (PaC DSA), a novel ImageJ plugin, is designed to streamline the process of drawing Time-density curve(TDC) of digital subtraction angiography(DSA) images and calculating essential perfusion-related parameters in a single action. 
+With the ROI selected, activating the plugin initiates the automatic generation of TDC and subsequent display of pertinent perfusion parameters such as TTP, MTT, CBF, and CBV.
